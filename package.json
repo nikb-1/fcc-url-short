@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "nikola burazor",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "validator": "^5.7.0"
+  }
 }
